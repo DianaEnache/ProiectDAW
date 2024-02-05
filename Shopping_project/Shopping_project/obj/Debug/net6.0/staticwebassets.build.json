@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "xrQlY5Izms0ePc0iwyd9nJ4QHZeYWAb5H9j7ibzEfz0=",
+  "Hash": "IK0xhwlUF4QjXTLhpbJBLO7fBlu/+Prf7B2Nmujzftg=",
   "Source": "Shopping_project",
   "BasePath": "_content/Shopping_project",
   "Mode": "Default",
@@ -1269,25 +1269,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\media\\products\\blue shirt.jpg"
-    },
-    {
-      "Identity": "D:\\!FACULTATE\\!ANUL_2\\!SEM_1_AN2\\DAW_LAB\\Proiect_DAW\\Shopping_project\\Shopping_project\\wwwroot\\media\\products\\dd6feba7-a6b3-4714-9093-afb2f8a7f74e_kiwi.jpg",
-      "SourceId": "Shopping_project",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\!FACULTATE\\!ANUL_2\\!SEM_1_AN2\\DAW_LAB\\Proiect_DAW\\Shopping_project\\Shopping_project\\wwwroot\\",
-      "BasePath": "_content/Shopping_project",
-      "RelativePath": "media/products/dd6feba7-a6b3-4714-9093-afb2f8a7f74e_kiwi.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\media\\products\\dd6feba7-a6b3-4714-9093-afb2f8a7f74e_kiwi.jpg"
     },
     {
       "Identity": "D:\\!FACULTATE\\!ANUL_2\\!SEM_1_AN2\\DAW_LAB\\Proiect_DAW\\Shopping_project\\Shopping_project\\wwwroot\\media\\products\\grapefruit.jpg",
