@@ -18,6 +18,38 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\!FACULTATE\!ANUL_2\!SEM_1_AN2\DAW_LAB\Proiect_DAW\Shopping_project\Shopping_project
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/\!FACULTATE/\!ANUL_2/\!SEM_1_AN2/DAW_LAB/Proiect_DAW/Shopping_project/Shopping_project/Areas/Admin/Views/Products/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!FACULTATE/\!ANUL_2/\!SEM_1_AN2/DAW_LAB/Proiect_DAW/Shopping_project/Shopping_project/Areas/Admin/Views/Products/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!FACULTATE/\!ANUL_2/\!SEM_1_AN2/DAW_LAB/Proiect_DAW/Shopping_project/Shopping_project/Areas/Admin/Views/Products/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!FACULTATE/\!ANUL_2/\!SEM_1_AN2/DAW_LAB/Proiect_DAW/Shopping_project/Shopping_project/Areas/Admin/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!FACULTATE/\!ANUL_2/\!SEM_1_AN2/DAW_LAB/Proiect_DAW/Shopping_project/Shopping_project/Areas/Admin/Views/Shared/_NotificationPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9Ob3RpZmljYXRpb25QYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!FACULTATE/\!ANUL_2/\!SEM_1_AN2/DAW_LAB/Proiect_DAW/Shopping_project/Shopping_project/Areas/Admin/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!FACULTATE/\!ANUL_2/\!SEM_1_AN2/DAW_LAB/Proiect_DAW/Shopping_project/Shopping_project/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!FACULTATE/\!ANUL_2/\!SEM_1_AN2/DAW_LAB/Proiect_DAW/Shopping_project/Shopping_project/Areas/Admin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/\!FACULTATE/\!ANUL_2/\!SEM_1_AN2/DAW_LAB/Proiect_DAW/Shopping_project/Shopping_project/Views/Cart/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -61,6 +93,10 @@ build_metadata.AdditionalFiles.CssScope =
 [D:/\!FACULTATE/\!ANUL_2/\!SEM_1_AN2/DAW_LAB/Proiect_DAW/Shopping_project/Shopping_project/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!FACULTATE/\!ANUL_2/\!SEM_1_AN2/DAW_LAB/Proiect_DAW/Shopping_project/Shopping_project/Areas/Admin/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-gqlfc1ytzm
 
 [D:/\!FACULTATE/\!ANUL_2/\!SEM_1_AN2/DAW_LAB/Proiect_DAW/Shopping_project/Shopping_project/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s

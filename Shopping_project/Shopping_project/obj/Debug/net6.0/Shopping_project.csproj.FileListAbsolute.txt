@@ -258,3 +258,4 @@ D:\!FACULTATE\!ANUL_2\!SEM_1_AN2\DAW_LAB\Proiect_DAW\Shopping_project\Shopping_p
 D:\!FACULTATE\!ANUL_2\!SEM_1_AN2\DAW_LAB\Proiect_DAW\Shopping_project\Shopping_project\obj\Debug\net6.0\Shopping_project.pdb
 D:\!FACULTATE\!ANUL_2\!SEM_1_AN2\DAW_LAB\Proiect_DAW\Shopping_project\Shopping_project\obj\Debug\net6.0\Shopping_project.genruntimeconfig.cache
 D:\!FACULTATE\!ANUL_2\!SEM_1_AN2\DAW_LAB\Proiect_DAW\Shopping_project\Shopping_project\obj\Debug\net6.0\ref\Shopping_project.dll
+D:\!FACULTATE\!ANUL_2\!SEM_1_AN2\DAW_LAB\Proiect_DAW\Shopping_project\Shopping_project\obj\Debug\net6.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
