@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using Shopping_project.Infrastructure;
+using ShoppingCart.Infrastructure;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -33,5 +34,9 @@ app.UseAuthorization();
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
+
+var context = app.Services.CreateScope().ServiceProvider.GetRequiredService<DataContext>();
+SeedData.SeedDatabase(context);
+
 
 app.Run();
