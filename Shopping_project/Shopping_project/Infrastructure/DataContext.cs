@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Shopping_project.Models;
-using System.Security.Cryptography.X509Certificates;
+
 
 namespace Shopping_project.Infrastructure
 {

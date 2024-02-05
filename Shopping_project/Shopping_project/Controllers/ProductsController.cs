@@ -4,7 +4,7 @@ using Shopping_project.Infrastructure;
 using Shopping_project.Models;
 
 
-namespace ShoppingCart.Controllers
+namespace Shopping_project.Controllers
 {
 	public class ProductsController : Controller
 	{

@@ -1,6 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using Shopping_project.Infrastructure;
-using ShoppingCart.Infrastructure;
+
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -9,12 +9,21 @@ builder.Services.AddDbContext<DataContext>(options =>
     options.UseSqlServer(builder.Configuration["ConnectionStrings:DbConnection"]);
 });
 
+builder.Services.AddDistributedMemoryCache();
+builder.Services.AddSession(options =>
+{
+    options.IdleTimeout = TimeSpan.FromSeconds(30);
+    options.Cookie.IsEssential = true;
+});
+
 
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
+
+app.UseSession();
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())

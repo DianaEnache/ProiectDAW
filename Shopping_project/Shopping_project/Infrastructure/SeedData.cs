@@ -1,9 +1,8 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using Shopping_project.Infrastructure;
 using Shopping_project.Models;
 
 
-namespace ShoppingCart.Infrastructure
+namespace Shopping_project.Infrastructure
 {
     public class SeedData
     {
