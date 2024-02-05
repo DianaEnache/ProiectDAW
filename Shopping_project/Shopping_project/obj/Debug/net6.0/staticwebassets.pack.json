@@ -245,6 +245,58 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+      "Id": "D:\\!FACULTATE\\!ANUL_2\\!SEM_1_AN2\\DAW_LAB\\Proiect_DAW\\Shopping_project\\Shopping_project\\wwwroot\\media\\products\\apples.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\apples.jpg"
+    },
+    {
+      "Id": "D:\\!FACULTATE\\!ANUL_2\\!SEM_1_AN2\\DAW_LAB\\Proiect_DAW\\Shopping_project\\Shopping_project\\wwwroot\\media\\products\\bananas.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\bananas.jpg"
+    },
+    {
+      "Id": "D:\\!FACULTATE\\!ANUL_2\\!SEM_1_AN2\\DAW_LAB\\Proiect_DAW\\Shopping_project\\Shopping_project\\wwwroot\\media\\products\\black shirt.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\black shirt.jpg"
+    },
+    {
+      "Id": "D:\\!FACULTATE\\!ANUL_2\\!SEM_1_AN2\\DAW_LAB\\Proiect_DAW\\Shopping_project\\Shopping_project\\wwwroot\\media\\products\\blue shirt.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\blue shirt.jpg"
+    },
+    {
+      "Id": "D:\\!FACULTATE\\!ANUL_2\\!SEM_1_AN2\\DAW_LAB\\Proiect_DAW\\Shopping_project\\Shopping_project\\wwwroot\\media\\products\\grapefruit.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\grapefruit.jpg"
+    },
+    {
+      "Id": "D:\\!FACULTATE\\!ANUL_2\\!SEM_1_AN2\\DAW_LAB\\Proiect_DAW\\Shopping_project\\Shopping_project\\wwwroot\\media\\products\\grapes.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\grapes.jpg"
+    },
+    {
+      "Id": "D:\\!FACULTATE\\!ANUL_2\\!SEM_1_AN2\\DAW_LAB\\Proiect_DAW\\Shopping_project\\Shopping_project\\wwwroot\\media\\products\\grey shirt.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\grey shirt.jpg"
+    },
+    {
+      "Id": "D:\\!FACULTATE\\!ANUL_2\\!SEM_1_AN2\\DAW_LAB\\Proiect_DAW\\Shopping_project\\Shopping_project\\wwwroot\\media\\products\\kiwi.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\kiwi.jpg"
+    },
+    {
+      "Id": "D:\\!FACULTATE\\!ANUL_2\\!SEM_1_AN2\\DAW_LAB\\Proiect_DAW\\Shopping_project\\Shopping_project\\wwwroot\\media\\products\\noimage.png",
+      "PackagePath": "staticwebassets\\media\\products\\noimage.png"
+    },
+    {
+      "Id": "D:\\!FACULTATE\\!ANUL_2\\!SEM_1_AN2\\DAW_LAB\\Proiect_DAW\\Shopping_project\\Shopping_project\\wwwroot\\media\\products\\pink shirt.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\pink shirt.jpg"
+    },
+    {
+      "Id": "D:\\!FACULTATE\\!ANUL_2\\!SEM_1_AN2\\DAW_LAB\\Proiect_DAW\\Shopping_project\\Shopping_project\\wwwroot\\media\\products\\watermelon.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\watermelon.jpg"
+    },
+    {
+      "Id": "D:\\!FACULTATE\\!ANUL_2\\!SEM_1_AN2\\DAW_LAB\\Proiect_DAW\\Shopping_project\\Shopping_project\\wwwroot\\media\\products\\white shirt.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\white shirt.jpg"
+    },
+    {
+      "Id": "D:\\!FACULTATE\\!ANUL_2\\!SEM_1_AN2\\DAW_LAB\\Proiect_DAW\\Shopping_project\\Shopping_project\\wwwroot\\media\\products\\yellow shirt.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\yellow shirt.jpg"
+    },
+    {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Shopping_project.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
