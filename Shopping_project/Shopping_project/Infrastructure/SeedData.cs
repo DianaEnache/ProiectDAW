@@ -14,6 +14,8 @@ namespace Shopping_project.Infrastructure
             {
                 Category fruits = new Category { Name = "Fruits", Slug = "fruits" };
                 Category shirts = new Category { Name = "Shirts", Slug = "shirts" };
+              
+
 
                 context.Products.AddRange(
                         new Product
@@ -88,6 +90,8 @@ namespace Shopping_project.Infrastructure
                             Category = shirts,
                             Image = "grey shirt.jpg"
                         }
+                        
+
                 );
 
                 context.SaveChanges();
